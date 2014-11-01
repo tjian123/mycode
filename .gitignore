@@ -1,0 +1,5 @@
+# test gitignore
+*.ini
+
+# doc tmp file
+~$*.doc
